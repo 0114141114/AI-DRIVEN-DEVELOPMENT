@@ -41,21 +41,17 @@ Eine minimalistische Web-App, in der Nutzer gemeinsam eine Einkaufsliste führen
 ## Target Users  
 - WG-Bewohner  
 - kleine Haushalte  
-- Personen, die gemeinsam einkaufen organisieren möchten  
-- Einsteiger mit Bedarf an einer einfachen Lösung  
+- Personen, die gemeinsam einkaufen organisieren möchten   
 
 ## Core Features  
 1. Produkt zur Liste hinzufügen  
 2. Optionale Mengenangabe (z. B. 2x Milch)  
 3. Anzeige aller Produkte in einer gemeinsamen Liste  
 4. Artikel als erledigt markieren/abhaken  
-5. Speicherung der Liste im lokalen Speicher  
 
 ## Non-Goals  
 - kein Login-System  
-- kein Backend  
-- keine Benutzerverwaltung  
-- keine Echtzeit-Synchronisation über Geräte hinweg  
+- kein Backend
 - keine Benachrichtigungen  
 
 ## Success Criteria  
@@ -67,4 +63,3 @@ Eine minimalistische Web-App, in der Nutzer gemeinsam eine Einkaufsliste führen
 - React  
 - Vite  
 - localStorage  
-- einfaches CSS  
