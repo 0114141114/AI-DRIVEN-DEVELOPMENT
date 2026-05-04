@@ -97,4 +97,16 @@ Als Nutzer möchte ich gekaufte Produkte abhaken können, damit ich weiß, was n
 **Acceptance Criteria**  
 - Nutzer kann einen Artikel als erledigt markieren  
 - Erledigte Artikel sind visuell unterscheidbar (z. B. durch Durchstreichen)  
-- Der Status bleibt nach einem Refresh erhalten  
+- Der Status bleibt nach einem Refresh erhalten
+
+---
+
+
+### 4. Menge angeben  
+**User Story**  
+Als Nutzer möchte ich optional eine Menge für ein Produkt angeben können, damit klar ist, wie viel gekauft werden soll.
+
+**Acceptance Criteria**  
+- Nutzer kann beim Hinzufügen eines Produkts eine Menge eingeben (optional)  
+- Die Menge wird zusammen mit dem Produkt angezeigt  
+- Produkte können auch ohne Mengenangabe hinzugefügt werden  
