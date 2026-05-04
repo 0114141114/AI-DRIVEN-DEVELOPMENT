@@ -16,7 +16,6 @@ Entwicklung einer minimalistischen Web-App, mit der Bewohner gemeinsam eine digi
 - Artikel als erledigt markieren/abhaken
 
 ## Warum diese Idee für den Workshop funktioniert
-- einfache Domäne (ähnlich wie Todo-Listen)
+- ähnlich wie Todo-Listen
 - hoher Alltagsbezug für die Teilnehmer
-- gut für die Demonstration von KI-Prompts (z.B. "Generiere eine Liste für ein Pasta-Gericht")
 - klein genug, um in einem Workshop gebaut zu werden
