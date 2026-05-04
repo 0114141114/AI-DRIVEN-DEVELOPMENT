@@ -62,4 +62,39 @@ Eine minimalistische Web-App, in der Nutzer gemeinsam eine Einkaufsliste führen
 ## Suggested Tech Stack  
 - React  
 - Vite  
-- localStorage  
+- localStorage
+
+
+
+## User Stories
+
+### 1. Produkt zur Liste hinzufügen  
+**User Story**  
+Als WG-Bewohner möchte ich ein Produkt zur Einkaufsliste hinzufügen können, damit wichtige Dinge nicht vergessen werden.
+
+**Acceptance Criteria**  
+- Nutzer kann einen Produktnamen eingeben  
+- Nutzer kann das Produkt zur Liste hinzufügen  
+- Das Produkt erscheint sofort in der Liste  
+
+---
+
+### 2. Einkaufsliste einsehen  
+**User Story**  
+Als Nutzer möchte ich alle Produkte auf der Einkaufsliste sehen, damit ich Doppelkäufe vermeide.
+
+**Acceptance Criteria**  
+- Alle hinzugefügten Produkte werden in einer Liste angezeigt  
+- Die Liste wird übersichtlich dargestellt  
+- Bereits vorhandene Produkte sind klar erkennbar  
+
+---
+
+### 3. Artikel abhaken  
+**User Story**  
+Als Nutzer möchte ich gekaufte Produkte abhaken können, damit ich weiß, was noch fehlt.
+
+**Acceptance Criteria**  
+- Nutzer kann einen Artikel als erledigt markieren  
+- Erledigte Artikel sind visuell unterscheidbar (z. B. durch Durchstreichen)  
+- Der Status bleibt nach einem Refresh erhalten  
